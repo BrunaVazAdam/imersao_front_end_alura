@@ -12,4 +12,8 @@
         Foi deixado como desafio a implementação do FOOTER. Então eu o implementei, inspecionando a página do projeto base. Mudei as cores contidas na propiedade "linear-gradient", para diferenciar um pouco o meu projeto.
         Acabei pesquisando conceitos que eu não conhecia, como por exemplo, o "flex-shrink".
 
+**RESUMO 3° AULA**
 
+        Nessa aula crie váriaveis para as fontes e também para as cores utilizadas no projeto. Além disso, criei a pasta src para organizar melhor o projeto, além de segmentar as folhas de estilo. 
+        Ainda, implementei a header__navigation dentro da tag main.
+        Foi deixado como desafio a implementação da div "playlist-container". Implementei tanto a parte do Html e CSS, quanto a lógica da tag h1 "greeting".
