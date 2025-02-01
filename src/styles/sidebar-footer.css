@@ -1,13 +1,14 @@
 body {
     background-color: black;
     font-family: var(--font-dm-sans);
+    /* adicionado o display flex para fazer com que a disposição entre sidebar e 
+    o main-container seja "row" */
+    display: flex;
 }
 
 .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
+    /* adicionado o shrink para não deixar que o sidebar  não tenha menos que 300px de width */
+    flex-shrink: 0;
     padding: 12px;
     width: 300px;
 }

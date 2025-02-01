@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "Taylor Swift",
+            "genre": "Pop",
+            "urlImg": "src/assets/artists/taylor-swift.webp"
+        },
+        {
+            "id": 2,
+            "name": "Drake",
+            "genre": "Hip-Hop",
+            "urlImg": "src/assets/artists/Drake.webp"
+        },
+        {
+            "id": 3,
+            "name": "Beyoncé",
+            "genre": "R&B",
+            "urlImg": "src/assets/artists/Beyonce.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Metallica",
+            "genre": "Metal",
+            "urlImg": "src/assets/artists/Metallica.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Beatles",
+            "genre": "Rock",
+            "urlImg": "src/assets/artists/The Beatles.jpg"
+        }
+    ]
+}

@@ -14,6 +14,16 @@
 
 **RESUMO 3° AULA**
 
-        Nessa aula crie váriaveis para as fontes e também para as cores utilizadas no projeto. Além disso, criei a pasta src para organizar melhor o projeto, além de segmentar as folhas de estilo. 
+        Nessa aula criei variáveis para as fontes e também para as cores utilizadas no projeto. Além disso, criei a pasta "src" para organizar melhor o projeto, além de segmentar as folhas de estilo. 
         Ainda, implementei a header__navigation dentro da tag main.
         Foi deixado como desafio a implementação da div "playlist-container". Implementei tanto a parte do Html e CSS, quanto a lógica da tag h1 "greeting".
+
+**RESUMO 4° AULA**
+
+        Nessa aula criei o arquivo json e subi uma API json serve, além de implementar os scripts Js para realizar a busca por artistas.
+        Resolvi alguns problemas de responsividade, que também estavam presentes no projeto da Alura.
+        No "body" adicionei o display flex para fazer com que a disposição entre sidebar e o main-container seja "row".
+        No "sidebar" adicionei o "shrink" para não deixar que o sidebar  não tenha menos que 300px de width.
+        No "main-container", adicionei o "overflow: auto" para que seja criado barras de rolagens, apenas quando necessário.
+        Também vale ressaltar que tive problemas para realizar a requisição get passando um parãmetro específico, pois a versão mais atual do json server não suporta "name_like=". Para solucionar esse problema, a solução foi trocar para versão  "@0.17.4".
+        Foi deixado como desafio a implementação de uma API com novos artistas, e eu a fiz com a ajuda de uma IA, passando os parãmetros necessários. 
