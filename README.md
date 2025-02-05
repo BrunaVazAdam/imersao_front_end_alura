@@ -27,3 +27,16 @@
         No "main-container", adicionei o "overflow: auto" para que seja criado barras de rolagens, apenas quando necessário.
         Também vale ressaltar que tive problemas para realizar a requisição get passando um parãmetro específico, pois a versão mais atual do json server não suporta "name_like=". Para solucionar esse problema, a solução foi trocar para versão  "@0.17.4".
         Foi deixado como desafio a implementação de uma API com novos artistas, e eu a fiz com a ajuda de uma IA, passando os parãmetros necessários. 
+
+**RESUMO 5° AULA**
+
+        Nessa aula, foi criado um projeto React e junto com os professores foi desenvolvido o componente 'Header'. Foi deixado como desafio a adaptação do projeto anterior para o projeto React.
+
+
+**REPOSITÓRIO PROJETO REACT**
+
+`https://github.com/BrunaVazAdam/alura-react`
+
+**COMANDO PARA RODAR A API JSON**
+
+`json-server --watch api-artists/artists.json --port 3000` 
