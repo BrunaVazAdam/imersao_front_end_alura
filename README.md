@@ -1,5 +1,10 @@
 # Imersão Front-end Alura
 
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
+
 **RESUMO DA 1° AULA**
 
         Na primeira aula foi construído a estrutura base do projeto, dando enfoque na implementação do SIDEBAR. 
